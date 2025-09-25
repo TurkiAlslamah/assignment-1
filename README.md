@@ -1,4 +1,4 @@
-# Turki Alslamnah - Portfolio Website
+# Turki Alslamah - Portfolio Website
 
 A responsive personal portfolio website showcasing my Software Engineering projects and skills.
 
